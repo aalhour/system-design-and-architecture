@@ -8,7 +8,7 @@
 
 | Languages | [English](#english-version) | [中文版](#系统设计与构架---中文版)| 
 | --- | --- | --- |
-| Communities | [Telegram: 264 members](https://t.me/system_design_and_architecture) | 微信群274人(ID: onetptp) [电报群](https://t.me/system_design_cn)
+| Communities | [Telegram: 1303 members](https://t.me/system_design_and_architecture) | 微信群356人(ID: onetptp) [电报群](https://t.me/system_design_cn)
 | Websites | [TianPan.co (English)](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview) | [硅谷io (中文)](https://guigu.io/notes/151-introduction-to-architecture) |
 | Mobile Apps | <img src="https://tianpan.co/download-tianpanco-app.png"/> <br/>[iOS](https://apps.apple.com/us/app/tianpan-co/id1492596286) / [Android](https://play.google.com/store/apps/details?id=co.tianpan.mobile) / [APK](https://github.com/puncsky/android-tianpanco-release/releases) | <img src="https://guigu.io/download-guiguio-app.png"/><br/>[iOS](https://apps.apple.com/app/apple-store/id1487436041) / [Android](https://play.google.com/store/apps/details?id=io.guigu.mobile) / [APK](https://github.com/puncsky/mobile-guiguio-release/releases) | 
 
@@ -42,19 +42,21 @@
 | <img src="https://res.cloudinary.com/dohtidfqh/image/upload/v1580709990/web-guiguio/linkedin.png" width="52" />| [Designing typeahead search or autocomplete](./en/179-designing-typeahead-search-or-autocomplete.md) |
 | <img src="https://res.cloudinary.com/dohtidfqh/image/upload/v1580710529/web-guiguio/nginx.jpg" width="52" />| [Designing a Load Balancer or Dropbox Bandaid](./en/182-designing-l7-load-balancer.md) |
 | <img src="https://res.cloudinary.com/dohtidfqh/image/upload/v1580708917/web-guiguio/uber.png" width="52" />| [Fraud Detection with Semi-supervised Learning](./en/136-fraud-detection-with-semi-supervised-learning.md) |
+| <img src="https://res.cloudinary.com/dohtidfqh/image/upload/v1595029150/web-guiguio/favicon-32x32.png" width="52" />| [Designing Online Judge or Leetcode](https://tianpan.co/notes/243-designing-online-judge-or-leetcode) |
 
+#### TODO
 
-* TODO
-    * Designing instagram or newsfeed APIs
-    * Designing Yelp / Finding nearest K POIs
-    * Designing trending topics / top K exceptions in the system
-    * Designing Leetcode
-    * Designing distributed web crawler
-    * Designing i18n service
-    * Designing ads bidding system
-    * Designing a dropbox or a file-sharing system
-    * Designing a calendar system
-    * Designing an instant chat system / Facebook Messenger / WeChat
+* Designing instagram or newsfeed APIs
+* Designing Yelp / Finding nearest K POIs
+* Designing trending topics / top K exceptions in the system
+* Designing distributed web crawler
+* Designing i18n service
+* Designing ads bidding system
+* Designing a dropbox or a file-sharing system
+* Designing a calendar system
+* Designing an instant chat system / Facebook Messenger / WeChat
+* Designing a ticketing system or Ticketmaster
+* Designing a voice assistant or Siri
 
 
 ### Theories
@@ -96,6 +98,7 @@
 * [Lyft 的营销自动化平台 Symphony](./zh-CN/176-lyft-marketing-automation-symphony.md)
 * [设计负载均衡器](./zh-CN/183-designing-l7-load-balancer.md)
 * [设计以人为本的国际化（i18n） 工程方案](./zh-CN/184-designing-i18n-solutions.md)
+* [如何设计区块链服务端的架构？](https://guigu.io/notes/235-designing-blockchain-server)
 
 ### 理论
 
@@ -117,8 +120,8 @@
 
 ## Join us for further discussion!
 
-* [Telegram: 364 members](https://t.me/system_design_and_architecture)
-* [Wechat 262 members: 加 onetptp 好友注明加系统设计群](https://tianpan.co/group/system-design-and-architecture)
+* [Telegram: 1303 members](https://t.me/system_design_and_architecture)
+* [Wechat 356 members: 加 onetptp 好友注明加系统设计群](https://tianpan.co/group/system-design-and-architecture)
 * [中文电报群](https://t.me/system_design_cn)
 
 ## License
